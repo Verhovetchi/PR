@@ -1,0 +1,9 @@
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\bin\Debug\SMTP+IMAP.exe.config
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\bin\Debug\SMTP+IMAP.exe
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\bin\Debug\SMTP+IMAP.pdb
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\obj\Debug\SMTP+IMAP.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\obj\Debug\SMTP+IMAP.exe
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\obj\Debug\SMTP+IMAP.pdb
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\bin\Debug\Mail.dll
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\bin\Debug\Mail.xml
+C:\Users\Daniel\source\repos\SMTP+IMAP\SMTP+IMAP\obj\Debug\SMTP+IMAP.csproj.CopyComplete
