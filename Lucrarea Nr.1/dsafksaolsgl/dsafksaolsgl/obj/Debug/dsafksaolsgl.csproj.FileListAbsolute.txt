@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\dsafksaolsgl\dsafksaolsgl\bin\Debug\dsafksaolsgl.exe.config
+C:\Users\Daniel\Desktop\dsafksaolsgl\dsafksaolsgl\bin\Debug\dsafksaolsgl.exe
+C:\Users\Daniel\Desktop\dsafksaolsgl\dsafksaolsgl\bin\Debug\dsafksaolsgl.pdb
+C:\Users\Daniel\Desktop\dsafksaolsgl\dsafksaolsgl\obj\Debug\dsafksaolsgl.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\dsafksaolsgl\dsafksaolsgl\obj\Debug\dsafksaolsgl.exe
+C:\Users\Daniel\Desktop\dsafksaolsgl\dsafksaolsgl\obj\Debug\dsafksaolsgl.pdb
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.1\dsafksaolsgl\dsafksaolsgl\bin\Debug\dsafksaolsgl.exe.config
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.1\dsafksaolsgl\dsafksaolsgl\bin\Debug\dsafksaolsgl.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.1\dsafksaolsgl\dsafksaolsgl\bin\Debug\dsafksaolsgl.pdb
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.1\dsafksaolsgl\dsafksaolsgl\obj\Debug\dsafksaolsgl.csprojAssemblyReference.cache
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.1\dsafksaolsgl\dsafksaolsgl\obj\Debug\dsafksaolsgl.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.1\dsafksaolsgl\dsafksaolsgl\obj\Debug\dsafksaolsgl.pdb
