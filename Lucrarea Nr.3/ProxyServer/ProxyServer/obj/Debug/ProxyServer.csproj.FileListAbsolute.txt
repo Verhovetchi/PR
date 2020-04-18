@@ -1,0 +1,84 @@
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.Core.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.pdb
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.xml
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.Core.pdb
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.Core.xml
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CopyComplete
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\ProxyServer.exe.config
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\ProxyServer.exe
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\ProxyServer.pdb
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\MSharp.Framework.Core.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\MSharp.Framework.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\System.Drawing.Common.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\MSharp.Framework.pdb
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\MSharp.Framework.xml
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\MSharp.Framework.Core.pdb
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\MSharp.Framework.Core.xml
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\obj\Debug\ProxyServer.csproj.CopyComplete
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\obj\Debug\ProxyServer.exe
+C:\Users\Daniel\Desktop\ProxyServer - Copie\ProxyServer\obj\Debug\ProxyServer.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.Core.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\Newtonsoft.Json.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\System.Data.SqlClient.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\System.Drawing.Common.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\System.Security.AccessControl.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\System.Security.Permissions.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\HtmlAgilityPack.xml
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.xml
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.Core.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\MSharp.Framework.Core.xml
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\bin\Debug\Newtonsoft.Json.xml
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\obj\Debug\ProxyServer.csproj.CopyComplete
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Programarea in retea(PR)\Lucrarea Nr.3\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb

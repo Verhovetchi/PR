@@ -1,0 +1,9 @@
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\@Assemblies\MSharp.Framework.dll.config
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\@Assemblies\MSharp.Framework.xml
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\@Assemblies\MSharp.Framework.dll
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\@Assemblies\MSharp.Framework.pdb
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\MSharp.Framework\obj\Debug\MSharp.Framework.csprojAssemblyReference.cache
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\MSharp.Framework\obj\Debug\MSharp.Framework.csproj.CoreCompileInputs.cache
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\MSharp.Framework\obj\Debug\MSharp.Framework.csproj.CopyComplete
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\MSharp.Framework\obj\Debug\MSharp.Framework.dll
+c:\jenkins\jenkins\jobs\msharp-framework_master\workspace\MSharp.Framework\obj\Debug\MSharp.Framework.pdb
