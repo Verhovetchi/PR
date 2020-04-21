@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\bin\Debug\TCPIP Client-Server.exe.config
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\bin\Debug\TCPIP Client-Server.exe
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\bin\Debug\TCPIP Client-Server.pdb
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\bin\Debug\SimpleTCP.dll
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP_Client_Server.Server.resources
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP_Client_Server.Properties.Resources.resources
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP Client-Server.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP Client-Server.csproj.CopyComplete
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP Client-Server.exe
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP Client-Server.pdb
+C:\Users\Daniel\Desktop\TCPIP Client-Server\TCPIP Client-Server\obj\Debug\TCPIP Client-Server.csprojAssemblyReference.cache

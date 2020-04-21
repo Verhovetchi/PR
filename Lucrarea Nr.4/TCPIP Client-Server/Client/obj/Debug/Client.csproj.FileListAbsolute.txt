@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\bin\Debug\Client.exe.config
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\bin\Debug\Client.exe
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\bin\Debug\Client.pdb
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\bin\Debug\SimpleTCP.dll
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\obj\Debug\Client.Client.resources
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\obj\Debug\Client.exe
+C:\Users\Daniel\Desktop\TCPIP Client-Server\Client\obj\Debug\Client.pdb
