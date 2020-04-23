@@ -1,0 +1,45 @@
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\bin\Debug\UDP.exe.config
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.csprojResolveAssemblyReference.cache
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.ServerForm.resources
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.ClientForm.resources
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.Properties.Resources.resources
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.csproj.GenerateResource.Cache
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.exe
+C:\Users\Fawzy Mokhtar\Desktop\UDP\UDP\obj\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\bin\Debug\UDP.exe.config
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.ServerForm.resources
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.ClientForm.resources
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.Properties.Resources.resources
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP\UDP\UDP\obj\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\bin\Debug\UDP.exe.config
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\obj\Debug\UDP.ServerForm.resources
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\obj\Debug\UDP.Properties.Resources.resources
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\obj\Debug\UDP.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\obj\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\obj\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP - Copie (2)\UDP\UDP\obj\Debug\UDP.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\bin\Debug\UDP.exe.config
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\obj\Debug\UDP.ServerForm.resources
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\obj\Debug\UDP.Properties.Resources.resources
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\obj\Debug\UDP.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\obj\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP - Copie (22)\UDP\UDP\obj\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\bin\Debug\UDP.exe.config
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\obj\Debug\UDP.ServerForm.resources
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\obj\Debug\UDP.Properties.Resources.resources
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\obj\Debug\UDP.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\obj\Debug\UDP.exe
+C:\Users\Daniel\Desktop\UDP - Copie (222)\UDP\UDP\obj\Debug\UDP.pdb

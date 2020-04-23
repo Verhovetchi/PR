@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP", "UDP\UDP.csproj", "{E84768F2-6794-493C-86DB-213928C0136A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{113BC828-2818-485D-8A48-3FAF16133FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84768F2-6794-493C-86DB-213928C0136A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84768F2-6794-493C-86DB-213928C0136A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84768F2-6794-493C-86DB-213928C0136A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84768F2-6794-493C-86DB-213928C0136A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113BC828-2818-485D-8A48-3FAF16133FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113BC828-2818-485D-8A48-3FAF16133FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113BC828-2818-485D-8A48-3FAF16133FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113BC828-2818-485D-8A48-3FAF16133FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A2A1ED-F5D4-4115-9968-2241EC7D155D}
+	EndGlobalSection
+EndGlobal
